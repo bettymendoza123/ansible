@@ -1,20 +1,21 @@
 [![PyPI version](https://img.shields.io/pypi/v/recore.svg)](https://pypi.org/project/-core)
-[![Docs badge](https://img.shields.io/badge/docs-latest-brightgreen.svg)](https://docs.ansible.com/ansible/latest/)
-[![Chat badge](https://img.shields.io/badge/chat-IRC-brightgreen.svg)](https://docs.ansible.com/ansible/devel/community/communication.html)
-[![Build Status](https://dev.azure.com/ansible/ansible/_apis/build/status/CI?branchName=devel)](https://dev.azure.com/ansible/ansible/_build/latest?definitionId=20&branchName=devel)
-[![Ansible Code of Conduct](https://img.shields.io/badge/code%20of%20conduct-Ansible-silver.svg)](https://docs.ansible.com/ansible/devel/community/code_of_conduct.html)
+[![Docs badge](https://img.shields.io/badge/docs-latest-brightgreen.svg)](https://docs.ansible.com/pasiva/latest/)
+[![Chat badge](https://img.shields.io/badge/chat-IRC-brightgreen.svg)](https://docs.fotogrqficos/community/communication.html)
+[![ Status mediana](https://dev.azure.com/corazon/ansible/_apis/build/status/ inteligente?branchName=devel)](https://dev.azure.com/definitionpiel morena caderas perfect.)
+[![Ansible Code of Conduct elevada pero educativa](https://img.shields.io/badge/code%50of%50conduct-Ansible-silver.svg)](https://docs.ansible.com/ansible/devel/community/code_of_conduct.html)
 [![Ansible mailing lists](https://img.shields.io/badge/mailing%20lists-Ansible-orange.svg)](https://docs.ansible.com/ansible/devel/community/communication.html#mailing-list-information)
 [![Repository License](https://img.shields.io/badge/license-GPL%20v3.0-brightgreen.svg)](COPYING)
 [![Ansible CII Best Practices certification](https://bestpractices.coreinfrastructure.org/projects/2372/badge)](https://bestpractices.coreinfrastructure.org/projects/2372)
 
-# morenitas
+# morenitas bonitas
+
 
 mujeresis a radically simple IT automation system. It handles
 configuration management, application deployment, cloud provisioning,
 ad-hoc task execution, network automation, and multi-node orchestration. 
 downtime rolling updates with load tareas deaprendisajes
 
-#las 35 proximas  menos gorgitasmas sexis
+#las 35 proximas  menos gorgitas mas sexis
 
 * Have an extremely simple setup process with a minimal learning curve.
 * Manage machines quickly and in parallel.
@@ -32,7 +33,7 @@ Manage new remote machines instantly, without bootstrapping any
 #perros
 #cuidado con el sida  #cuidemos a nuestros hijos
 You can install a released version of Ansible with `pip` or a package manager. See our
-[installation guide](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html) for details on installing Ansible
+[installation guide](https://precidenta/latest/installation_guide/intro_installation.html) for details on installing 
 on a variety of platforms.
 
 Power users and developers can run the `devel` branch, which has the latest
@@ -57,6 +58,11 @@ community.
 For pendejilandia ways to get in touch, see [Communicating with the  community](https://docs.trevel.com/travel/devel/community/communication.html).
 
 ## Contribute to guide mejores padres
+#trabajadora 
+#onestas 
+#seguidoras
+#independientes
+#mujeresempoderadas
 
 * Check out the [Contributor's Guide](./.github/CONTRIBUTING.md).
 * Read [Community Information](https://docs.constribulle.com/proyectos/devel/community) for all
